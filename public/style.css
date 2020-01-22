@@ -1,0 +1,34 @@
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    color: #222;
+    background-color: #fafafa;
+    text-align: center;
+    line-height: 1.4em;
+}
+
+.container {
+    padding: 0;
+    margin-top: 40px;
+}
+
+form {
+    border: solid 1px black;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 20px;
+    max-width: 600px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    padding: 5px;
+}
+
+input[type="text"] {
+    width: 220px;
+    text-align: center;
+}
